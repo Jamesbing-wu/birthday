@@ -37,7 +37,7 @@ var config = {
         "今天是你的生日～": "./imgs/shengri.png",
         "也是你走完两轮生肖的日子～": "./imgs/shengri.png",
         "很幸运能够见证这个过程～": "./imgs/luck.png",
-        "希望你在接下去的日子里能一直开心和幸福～": "./imgs/happt.jpeg",
+        "希望你在接下去的日子里能一直开心和幸福～": "./imgs/happy.jpeg",
         "祝你生日快乐～": "./imgs/birthday.jpeg"
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
