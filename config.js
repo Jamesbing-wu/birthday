@@ -16,6 +16,7 @@ var config = {
     //     "YAMI~~",
     // ],
     texts: [
+        "小可爱～",
         "你好呀～",
         "今天是你的生日～",
         "也是你走完两轮生肖的日子～",
@@ -33,6 +34,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
+        "小可爱～": "./imgs/123.jpg",
         "你好呀～": "./imgs/nihao.jpeg",
         "今天是你的生日～": "./imgs/shengri.png",
         "也是你走完两轮生肖的日子～": "./imgs/shengri.png",
