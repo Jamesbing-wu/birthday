@@ -1292,12 +1292,13 @@ audio {
 
 .btn-primary {
         border-color: #466baf;
-        padding: 10px;
+        padding: 20px;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
         background-color: #466baf;
+		margin-bottom: 20px;
 }
     .btn-primary:hover,
     .btn-primary:focus,
